@@ -29,7 +29,7 @@ cd erp-financeiro
 python -m venv venv
 source venv/bin/activate  # Para Linux/Mac
 venv\Scripts\activate  # Para Windows
-pip install -r requirements.txtg
+pip install -r requirements.txt
 ```
 
 ###  Execute a carga do banco de dados:
