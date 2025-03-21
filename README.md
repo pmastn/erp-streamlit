@@ -42,3 +42,11 @@ python database_finance.py
 ```bash
 streamlit run app.py
 ```
+
+### PEDRO MASTANDREA RA 10389910
+### ALTERAÇÕES FEITAS :
+```bash
+Fluxo de Caixa por Mês
+Distribuição das Contas a Pagar por Fornecedor
+Status das Contas a Pagar e Receber
+```
