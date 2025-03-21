@@ -46,6 +46,10 @@ streamlit run app.py
 ### PEDRO MASTANDREA RA 10389910
 ### ALTERAÇÕES FEITAS :
 ```bash
+
+INSTALAR MATPLOTLIP pip install matplotlib
+INSTALAR SEABORN pip install seaborn
+
 Fluxo de Caixa por Mês
 Distribuição das Contas a Pagar por Fornecedor
 Status das Contas a Pagar e Receber
