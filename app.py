@@ -3,6 +3,7 @@ import pandas as pd
 import sqlite3
 from faker import Faker
 
+# PEDRO MASTANDREA RA 10389910
 # Interface Streamlit
 def main():
     st.title("ERP Financeiro com Streamlit")
