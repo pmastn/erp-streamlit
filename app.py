@@ -4,11 +4,9 @@ import sqlite3
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-<<<<<<< HEAD
-=======
 # PEDRO MASTANDREA RA 10389910
 # Interface Streamlit
->>>>>>> b7062ba65c7712bf3711785cc7581a76ba4c56dc
+
 def main():
     st.title("ERP Financeiro com Streamlit")
     menu = ["Clientes", "Contas a Pagar", "Contas a Receber", "Lançamentos", "Relatórios"]
